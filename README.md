@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Who wants coffee?
